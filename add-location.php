@@ -4,7 +4,7 @@
  * @version 0.1
  */
 /*
-Plugin Name: Geo-Locate My Posts
+Plugin Name: Geolocate My Posts
 Description: A Wordpress plugin that tags the location of the post using Google Maps.
 Author: Aneesh Dogra
 Version: 0.1

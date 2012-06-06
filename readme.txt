@@ -1,4 +1,4 @@
-=== Locate My Posts ===
+=== Geolocate My Posts ===
 Contributors: Aneesh Dogra
 Tags: geo-locate, location, gmaps, Google Maps, add location to posts, locate my posts, geo-locate my posts
 Requires at least: 3.0
@@ -8,7 +8,7 @@ A Wordpress plugin that tags the location of the post using Google Maps.
 
 == Description ==
 
-A Wordpress plugin that adds location to your posts, using Geo-Location and the Google Maps API.
+A Wordpress plugin that adds location to your posts, using Geolocation and the Google Maps API.
 
 == Other Notes ==
 
@@ -19,7 +19,7 @@ A Wordpress plugin that adds location to your posts, using Geo-Location and the 
 
 You may either install the plugin via the in-built installer in WordPress or follow the manual method below:
 
-1. Upload the extracted `Geo-Locate-My-Posts` folder to the `/wp-content/plugins/` directory
+1. Upload the extracted `Geolocate-My-Posts` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Enjoy!
 
